@@ -5,7 +5,7 @@ Use this cookbook to install [runit web management tool](https://github.com/Unde
 ### Dependencies
 
 * [runit](https://github.com/opscode-cookbooks/runit) cookbook.
-* Ruby 1.8.7 or higher should be installed. This is prerequisite of Chef itself.
+* Ruby 1.9.3 or higher should be installed. This is prerequisite of Chef itself.
 
 ### Configuration
 
